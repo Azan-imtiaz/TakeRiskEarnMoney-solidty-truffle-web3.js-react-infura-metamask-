@@ -1,2 +1,2 @@
-deployed account                0x7E0bA3B4bcF150C32e837f43284fB298B5a9A4DE
+deployer account                0x7E0bA3B4bcF150C32e837f43284fB298B5a9A4DE
 deployed contract address        0x1071fDf1D094A7af98E4cc1d6Ec1145E0b4B21f9
